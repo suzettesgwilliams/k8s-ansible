@@ -65,7 +65,7 @@ $ terraform plan terafrom_scripts/
 # Apply to create resources
 $ terraform apply --auto-approve terafrom_scripts/
 ```
-
+install awscli, assign role/permissions and aws configure
 ## Configuration Management
 
 #### Check If DynamicInventory Script works.
